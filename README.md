@@ -8,17 +8,18 @@ Usage
 
 ### Adding as a submodule
 
-To add this library as a submodule, execute the following commands inside of your project. This will add this library as a submodule and checkout the current 4.0.x version into a folder called "bourbon."
+To add this library as a submodule, execute the following commands inside of your project. This will add this library as a submodule and checkout the current 4.1.x version into a folder called "bourbon."
 
-	git submodule add -b v4_0 https://github.com/Sujevo/lib-bourbon bourbon
+	git submodule add -b v4_1 https://github.com/Sujevo/lib-bourbon bourbon
 	git submodule update --remote
 
-You may replace `v4_0` with `v3_2` if you would like to use Bourbon version 3.2.x. This repository will always use the most up to date version for the respective branch.
+You may replace `v4_1` with `v3_2` if you would like to use Bourbon version 3.2.x. This repository will always use the most up to date version for the respective branch.
 
 ### Current Hosted Versions
 
-- Version 4.0.2 - May 2014
-- Version 3.2.3 - May 2014
+- Version 4.1.0 (v4_1) - December 2014
+- Version 4.0.2 (v4_0) - May 2014
+- Version 3.2.3 (v3_2) - May 2014
 
 ## Credits
 
