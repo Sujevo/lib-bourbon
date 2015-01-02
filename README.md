@@ -17,9 +17,14 @@ You may replace `v4_1` with `v3_2` if you would like to use Bourbon version 3.2.
 
 ### Current Hosted Versions
 
-- Version 4.1.0 (v4_1) - December 2014
-- Version 4.0.2 (v4_0) - May 2014
-- Version 3.2.3 (v3_2) - May 2014
+Use the following table to see what branch to use for the corresponding version of Bourbon.
+
+| Version | Branch | Release Date  |
+| ------- | ------ | ------------- |
+| 4.1.0   | v4_1   | December 2014 |
+| 4.0.2   | v4_0   | May 2014      |
+| 3.2.3   | v3_2   | May 2014      |
+
 
 ## Credits
 
