@@ -21,7 +21,7 @@ Use the following table to see what branch to use for the corresponding version 
 
 | Version | Branch | Release Date  |
 | ------- | ------ | ------------- |
-| 4.2.2   | v4_2   | April 2015    |
+| 4.2.3   | v4_2   | May 2015      |
 | 4.1.1   | v4_1   | January 2015  |
 | 4.0.2   | v4_0   | May 2014      |
 | 3.2.4   | v3_2   | January 2015  |
